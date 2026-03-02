@@ -6,6 +6,7 @@
 > ```zsh
 > git clone https://github.com/AAU-ST2-Programming/populations_data_4_workshop.git
 > cd populations_data_4_workshop
+> git pull
 > ```
 ## Forberedelse
 
